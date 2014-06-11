@@ -1,4 +1,4 @@
-appengine-skeleton
-=============================
+situpapi
+========
 
-This is a generated application from the appengine-skeleton archetype.
+situpapi for mobilutviklingsgruppen
